@@ -1,8 +1,17 @@
-## Olá! Sou Yan Lucas
+## 👋 Olá, eu sou Yan Lucas!
 
-Estou no 5 semestre de Ciência da Computação. <br>
-Tenho muito interesse em Ciência de Dados e Inteligência Artificial! <br>
+Apaixonado por tecnologia, inovação. Estou cursando Ciência da Computação e já acumulo experiências práticas tanto em projetos acadêmicos quanto em iniciativas colaborativas, especialmente nas áreas de IA, automação e desenvolvimento de software. Aqui você encontra um pouco da minha jornada, desafios e soluções reais que venho construindo. Sempre buscando aprender rápido e evoluir junto com a comunidade tech.
 
+## 
+
+## 📚 Sobre Mim
+
+<ul> Tenho 18 anos </ul>
+<ul> 5º semestre de Ciência da Computação</ul>
+<ul> Gestor do Lab I.A no Núcleo de Inovação e Tecnologia (NITE)</ul>
+<ul> Foco em Inteligência Artificial, Data Science, automação.</ul>
+
+##
 <div>
   <a href="https://github.com/luuhkkj">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luuhkkj&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
