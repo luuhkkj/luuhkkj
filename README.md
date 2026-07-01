@@ -13,7 +13,6 @@ Apaixonado por tecnologia, inovação. Estou cursando Ciência da Computação e
 ##
 <div>
   <a href="https://github.com/luuhkkj">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luuhkkj&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luuhkkj&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
