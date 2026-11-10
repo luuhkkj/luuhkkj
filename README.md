@@ -5,7 +5,7 @@ Apaixonado por tecnologia, inovação. Estou cursando Ciência da Computação e
 
 ## 📚 Sobre Mim
 
-• Tenho 18 anos<br>
+• Tenho 19 anos<br>
 • 6º semestre de Ciência da Computação<br>
 • Foco em Inteligência Artificial, Data Science, automação.<br>
 • Meu E-Mail é yanlucasfacul1008@gmail.com
